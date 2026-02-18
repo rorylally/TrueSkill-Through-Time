@@ -1,0 +1,6 @@
+tournament_set,n_tournaments_used,n_matches,acc_ttt,acc_book,brier_ttt,brier_book,logloss_ttt,logloss_book,calratio_ttt,calratio_book,preds_file,summary_file,xlsx_file
+Grandslams,4,500,73,78.4,0.194,0.1539,0.5754,0.4731,0.5854,0.6719,Ordinal_TTT_predictions_TOP100_Grandslams.csv,metrics_summary_ORDINAL_TTT_TOP100_Grandslams.csv,Global_TTT_ordinal_predictions_TOP100_FROMCSV_Grandslams.xlsx
+Masters1000,8,622,65.11,67.85,0.2174,0.2056,0.6255,0.5967,0.5534,0.5898,Ordinal_TTT_predictions_TOP100_Masters1000.csv,metrics_summary_ORDINAL_TTT_TOP100_Masters1000.csv,Global_TTT_ordinal_predictions_TOP100_FROMCSV_Masters1000.xlsx
+All_2024,65,2609,65.08,69.11,0.2201,0.199,0.6311,0.581,0.55,0.5957,Ordinal_TTT_predictions_TOP100_All_2024.csv,metrics_summary_ORDINAL_TTT_TOP100_All_2024.csv,Global_TTT_ordinal_predictions_TOP100_FROMCSV_All_2024.xlsx
+ATP500,12,388,62.89,67.53,0.221,0.2018,0.6325,0.5875,0.5478,0.5902,Ordinal_TTT_predictions_TOP100_ATP500.csv,metrics_summary_ORDINAL_TTT_TOP100_ATP500.csv,Global_TTT_ordinal_predictions_TOP100_FROMCSV_ATP500.xlsx
+ATP250,39,1033,62.34,66.12,0.2333,0.2141,0.6595,0.6166,0.5326,0.5662,Ordinal_TTT_predictions_TOP100_ATP250.csv,metrics_summary_ORDINAL_TTT_TOP100_ATP250.csv,Global_TTT_ordinal_predictions_TOP100_FROMCSV_ATP250.xlsx

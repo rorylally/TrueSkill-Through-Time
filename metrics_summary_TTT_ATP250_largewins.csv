@@ -1,0 +1,2 @@
+tournament_set,n_tournaments_used,n_matches,acc_ttt,acc_book,brier_ttt,brier_book,logloss_ttt,logloss_book,calratio_ttt,calratio_book,mov_pred_scale,mov_pred_cap,preds_file
+ATP250,39,1033,61.76,66.12,0.3213,0.2141,1.7985,0.6166,0.6035,0.5662,0,4,TTT_predictions_ATP250_largewins.csv

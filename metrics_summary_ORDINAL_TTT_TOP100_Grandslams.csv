@@ -1,0 +1,2 @@
+tournament_set,n_tournaments_used,n_matches,acc_ttt,acc_book,brier_ttt,brier_book,logloss_ttt,logloss_book,calratio_ttt,calratio_book,preds_file,xlsx_file
+Grandslams,4,500,73,78.4,0.2281,0.1539,0.6491,0.4731,0.5245,0.6719,Ordinal_TTT_predictions_TOP100_Grandslams.csv,Global_TTT_ordinal_predictions_TOP100_FROMCSV_Grandslams.xlsx

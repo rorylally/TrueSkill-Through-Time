@@ -1,0 +1,233 @@
+"Date","ATP","Tournament","Round","Surface","Court","Winner","Loser","B365W","B365L","TTT_Pct_W","TTT_Pct_L","pred","ttt_correct","bookie_pred","bookie_correct","bet365_right_ttt_wrong","ATPk"
+2024-03-06,19,"BNP Paribas Open","1st Round","Hard","Outdoor","O Connell C.","Draper J.",4.33,1.22,1.18,98.82,"Draper J.",FALSE,"Draper J.",FALSE,FALSE,19
+2024-03-06,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Kokkinakis T.","Giron M.",2.63,1.5,84,16,"Kokkinakis T.",TRUE,"Giron M.",FALSE,FALSE,19
+2024-03-06,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Hanfmann Y.","Cachin P.",1.4,3,91.14,8.86,"Hanfmann Y.",TRUE,"Hanfmann Y.",TRUE,FALSE,19
+2024-03-06,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Shevchenko A.","Koepfer D.",2.2,1.67,76.04,23.96,"Shevchenko A.",TRUE,"Koepfer D.",FALSE,FALSE,19
+2024-03-06,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Nakashima B.","Eubanks C.",1.5,2.63,13.95,86.05,"Eubanks C.",FALSE,"Nakashima B.",TRUE,TRUE,19
+2024-03-06,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Arnaldi M.","Van Assche L.",1.5,2.63,97.71,2.29,"Arnaldi M.",TRUE,"Arnaldi M.",TRUE,FALSE,19
+2024-03-06,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Marozsan F.","Rodionov J.",1.57,2.38,95.32,4.68,"Marozsan F.",TRUE,"Marozsan F.",TRUE,FALSE,19
+2024-03-06,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Murray A.","Goffin D.",1.67,2.2,87.76,12.24,"Murray A.",TRUE,"Murray A.",TRUE,FALSE,19
+2024-03-06,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Daniel T.","Galan D.E.",1.44,2.75,94.72,5.28,"Daniel T.",TRUE,"Daniel T.",TRUE,FALSE,19
+2024-03-07,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Vukic A.","Mochizuki S.",1.91,1.91,25.34,74.66,"Mochizuki S.",FALSE,NA,FALSE,FALSE,19
+2024-03-07,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Machac T.","Wawrinka S.",1.5,2.63,21.97,78.03,"Wawrinka S.",FALSE,"Machac T.",TRUE,TRUE,19
+2024-03-07,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Sonego L.","Kecmanovic M.",2.1,1.73,92.28,7.72,"Sonego L.",TRUE,"Kecmanovic M.",FALSE,FALSE,19
+2024-03-07,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Lestienne C.","Kudla D.",1.73,2.1,9.21,90.79,"Kudla D.",FALSE,"Lestienne C.",TRUE,TRUE,19
+2024-03-07,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Pouille L.","Altmaier D.",2,1.8,53.54,46.46,"Pouille L.",TRUE,"Altmaier D.",FALSE,FALSE,19
+2024-03-07,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Lajovic D.","Ruusuvuori E.",2.75,1.44,53.3,46.7,"Lajovic D.",TRUE,"Ruusuvuori E.",FALSE,FALSE,19
+2024-03-07,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Safiullin R.","Evans D.",1.67,2.2,87.8,12.2,"Safiullin R.",TRUE,"Safiullin R.",TRUE,FALSE,19
+2024-03-07,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Monfils G.","Purcell M.",1.29,3.75,98.58,1.42,"Monfils G.",TRUE,"Monfils G.",TRUE,FALSE,19
+2024-03-07,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Mensik J.","Hong S.",1.2,4.5,76.34,23.66,"Mensik J.",TRUE,"Mensik J.",TRUE,FALSE,19
+2024-03-07,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Coric B.","Ofner S.",1.3,3.5,48.5,51.5,"Ofner S.",FALSE,"Coric B.",TRUE,TRUE,19
+2024-03-07,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Michelsen A.","Munar J.",1.36,3.2,72.82,27.18,"Michelsen A.",TRUE,"Michelsen A.",TRUE,FALSE,19
+2024-03-07,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Seyboth Wild T.","Wolf J.J.",1.57,2.38,15.6,84.4,"Wolf J.J.",FALSE,"Seyboth Wild T.",TRUE,TRUE,19
+2024-03-08,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Shang J.","Thompson J.",2.75,1.44,18.34,81.66,"Thompson J.",FALSE,"Thompson J.",FALSE,FALSE,19
+2024-03-08,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Fils A.","Borges N.",1.73,2.1,99.91,0.09,"Fils A.",TRUE,"Fils A.",TRUE,FALSE,19
+2024-03-08,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Fognini F.","Zapata Miralles B.",1.53,2.5,61.5,38.5,"Fognini F.",TRUE,"Fognini F.",TRUE,FALSE,19
+2024-03-08,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Kypson P.","Quinn E.",1.67,2.2,36.59,63.41,"Quinn E.",FALSE,"Kypson P.",TRUE,TRUE,19
+2024-03-08,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Raonic M.","Nagal S.",1.4,3,94.58,5.42,"Raonic M.",TRUE,"Raonic M.",TRUE,FALSE,19
+2024-03-08,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Zhang Zh.","Kovacevic A.",1.62,2.3,97.2,2.8,"Zhang Zh.",TRUE,"Zhang Zh.",TRUE,FALSE,19
+2024-03-08,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Muller A.","Grenier H.",1.8,2,39.59,60.41,"Grenier H.",FALSE,"Muller A.",TRUE,TRUE,19
+2024-03-08,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Tabilo A.","Kotov P.",1.62,2.3,16.95,83.05,"Kotov P.",FALSE,"Tabilo A.",TRUE,TRUE,19
+2024-03-08,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Shapovalov D.","Van De Zandschulp B.",1.62,2.3,69.95,30.05,"Shapovalov D.",TRUE,"Shapovalov D.",TRUE,FALSE,19
+2024-03-08,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Carballes Baena R.","Cobolli F.",3.2,1.36,60.08,39.92,"Carballes Baena R.",TRUE,"Cobolli F.",FALSE,FALSE,19
+2024-03-08,19,"BNP Paribas Open","1st Round","Hard","Outdoor","Klein L.","Moreno De Alboran N.",1.57,2.38,53.87,46.13,"Klein L.",TRUE,"Klein L.",TRUE,FALSE,19
+2024-03-20,20,"Miami Open","1st Round","Hard","Outdoor","Van Assche L.","Kotov P.",1.73,2.1,6.15,93.85,"Kotov P.",FALSE,"Van Assche L.",TRUE,TRUE,20
+2024-03-20,20,"Miami Open","1st Round","Hard","Outdoor","Van De Zandschulp B.","Hijikata R.",1.67,2.2,55.67,44.33,"Van De Zandschulp B.",TRUE,"Van De Zandschulp B.",TRUE,FALSE,20
+2024-03-20,20,"Miami Open","1st Round","Hard","Outdoor","Shapovalov D.","Darderi L.",1.25,4,88.11,11.89,"Shapovalov D.",TRUE,"Shapovalov D.",TRUE,FALSE,20
+2024-03-20,20,"Miami Open","1st Round","Hard","Outdoor","Draper J.","Daniel T.",1.17,5,97.99,2.01,"Draper J.",TRUE,"Draper J.",TRUE,FALSE,20
+2024-03-20,20,"Miami Open","1st Round","Hard","Outdoor","O Connell C.","Kopriva V.",1.29,3.75,67.78,32.22,"O Connell C.",TRUE,"O Connell C.",TRUE,FALSE,20
+2024-03-20,20,"Miami Open","1st Round","Hard","Outdoor","Cobolli F.","Nishioka Y.",2.1,1.73,7.76,92.24,"Nishioka Y.",FALSE,"Nishioka Y.",FALSE,FALSE,20
+2024-03-20,20,"Miami Open","1st Round","Hard","Outdoor","Machac T.","Blanch D.",1.01,23,68.52,31.48,"Machac T.",TRUE,"Machac T.",TRUE,FALSE,20
+2024-03-20,20,"Miami Open","1st Round","Hard","Outdoor","Fucsovics M.","Purcell M.",1.44,2.75,97.18,2.82,"Fucsovics M.",TRUE,"Fucsovics M.",TRUE,FALSE,20
+2024-03-20,20,"Miami Open","1st Round","Hard","Outdoor","Vavassori A.","Cachin P.",1.5,2.63,73.08,26.92,"Vavassori A.",TRUE,"Vavassori A.",TRUE,FALSE,20
+2024-03-20,20,"Miami Open","1st Round","Hard","Outdoor","Murray A.","Berrettini M.",2.1,1.73,45.88,54.12,"Berrettini M.",FALSE,"Berrettini M.",FALSE,FALSE,20
+2024-03-20,20,"Miami Open","1st Round","Hard","Outdoor","Seyboth Wild T.","Borges N.",1.91,1.91,85.79,14.21,"Seyboth Wild T.",TRUE,NA,FALSE,FALSE,20
+2024-03-20,20,"Miami Open","1st Round","Hard","Outdoor","Shang J.","Kecmanovic M.",2.2,1.67,48.77,51.23,"Kecmanovic M.",FALSE,"Kecmanovic M.",FALSE,FALSE,20
+2024-03-20,20,"Miami Open","1st Round","Hard","Outdoor","Damm M.","Zhang Zh.",3.75,1.29,28.85,71.15,"Zhang Zh.",FALSE,"Zhang Zh.",FALSE,FALSE,20
+2024-03-20,20,"Miami Open","1st Round","Hard","Outdoor","Arnaldi M.","Fils A.",2.1,1.73,22.59,77.41,"Fils A.",FALSE,"Fils A.",FALSE,FALSE,20
+2024-03-21,20,"Miami Open","1st Round","Hard","Outdoor","Michelsen A.","Klein L.",1.73,2.1,91.24,8.76,"Michelsen A.",TRUE,"Michelsen A.",TRUE,FALSE,20
+2024-03-21,20,"Miami Open","1st Round","Hard","Outdoor","Koepfer D.","Giron M.",2.3,1.62,25.21,74.79,"Giron M.",FALSE,"Giron M.",FALSE,FALSE,20
+2024-03-21,20,"Miami Open","1st Round","Hard","Outdoor","Altmaier D.","Mayot H.",1.73,2.1,22.76,77.24,"Mayot H.",FALSE,"Altmaier D.",TRUE,TRUE,20
+2024-03-21,20,"Miami Open","1st Round","Hard","Outdoor","Djere L.","Wong C.",1.5,2.63,71.5,28.5,"Djere L.",TRUE,"Djere L.",TRUE,FALSE,20
+2024-03-21,20,"Miami Open","1st Round","Hard","Outdoor","Auger-Aliassime F.","Walton A.",1.22,4.33,71.89,28.11,"Auger-Aliassime F.",TRUE,"Auger-Aliassime F.",TRUE,FALSE,20
+2024-03-21,20,"Miami Open","1st Round","Hard","Outdoor","Ofner S.","Nishikori K.",1.8,2,27.9,72.1,"Nishikori K.",FALSE,"Ofner S.",TRUE,TRUE,20
+2024-03-21,20,"Miami Open","1st Round","Hard","Outdoor","Tabilo A.","Nakashima B.",2.38,1.57,48.04,51.96,"Nakashima B.",FALSE,"Nakashima B.",FALSE,FALSE,20
+2024-03-21,20,"Miami Open","1st Round","Hard","Outdoor","Evans D.","Sonego L.",2.2,1.67,10.56,89.44,"Sonego L.",FALSE,"Sonego L.",FALSE,FALSE,20
+2024-03-21,20,"Miami Open","1st Round","Hard","Outdoor","Kwon S.W.","Muller A.",2.75,1.44,83.25,16.75,"Kwon S.W.",TRUE,"Muller A.",FALSE,FALSE,20
+2024-03-21,20,"Miami Open","1st Round","Hard","Outdoor","Marozsan F.","Kovacevic A.",1.67,2.2,99.24,0.76,"Marozsan F.",TRUE,"Marozsan F.",TRUE,FALSE,20
+2024-03-21,20,"Miami Open","1st Round","Hard","Outdoor","Hanfmann Y.","Ruusuvuori E.",4,1.25,48.35,51.65,"Ruusuvuori E.",FALSE,"Ruusuvuori E.",FALSE,FALSE,20
+2024-03-21,20,"Miami Open","1st Round","Hard","Outdoor","Landaluce M.","Munar J.",2.63,1.5,4.76,95.24,"Munar J.",FALSE,"Munar J.",FALSE,FALSE,20
+2024-03-21,20,"Miami Open","1st Round","Hard","Outdoor","Carballes Baena R.","Vukic A.",3.5,1.3,50.51,49.49,"Carballes Baena R.",TRUE,"Vukic A.",FALSE,FALSE,20
+2024-03-21,20,"Miami Open","1st Round","Hard","Outdoor","Bautista Agut R.","Nava E.",1.73,2.1,93.2,6.8,"Bautista Agut R.",TRUE,"Bautista Agut R.",TRUE,FALSE,20
+2024-03-21,20,"Miami Open","1st Round","Hard","Outdoor","Popyrin A.","Diaz Acosta F.",1.5,2.63,93.02,6.98,"Popyrin A.",TRUE,"Popyrin A.",TRUE,FALSE,20
+2024-03-21,20,"Miami Open","1st Round","Hard","Outdoor","Shevchenko A.","Galan D.E.",1.53,2.5,99.69,0.31,"Shevchenko A.",TRUE,"Shevchenko A.",TRUE,FALSE,20
+2024-03-21,20,"Miami Open","1st Round","Hard","Outdoor","Monfils G.","Lajovic D.",1.33,3.4,74.53,25.47,"Monfils G.",TRUE,"Monfils G.",TRUE,FALSE,20
+2024-03-22,20,"Miami Open","1st Round","Hard","Outdoor","Safiullin R.","Schwartzman D.",1.33,3.4,96.54,3.46,"Safiullin R.",TRUE,"Safiullin R.",TRUE,FALSE,20
+2024-04-07,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Struff J.L.","Baez S.",2.75,1.44,84.52,15.48,"Struff J.L.",TRUE,"Baez S.",FALSE,FALSE,24
+2024-04-07,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Griekspoor T.","Koepfer D.",1.67,2.2,96.27,3.73,"Griekspoor T.",TRUE,"Griekspoor T.",TRUE,FALSE,24
+2024-04-07,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Coric B.","Bublik A.",1.53,2.5,43.39,56.61,"Bublik A.",FALSE,"Coric B.",TRUE,TRUE,24
+2024-04-07,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Musetti L.","Fritz T.",1.91,1.91,12.69,87.31,"Fritz T.",FALSE,NA,FALSE,FALSE,24
+2024-04-08,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Ofner S.","Evans D.",1.8,2,73.04,26.96,"Ofner S.",TRUE,"Ofner S.",TRUE,FALSE,24
+2024-04-08,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Auger-Aliassime F.","Nardi L.",1.67,2.2,99.42,0.58,"Auger-Aliassime F.",TRUE,"Auger-Aliassime F.",TRUE,FALSE,24
+2024-04-08,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Popyrin A.","Moutet C.",2.1,1.73,99.85,0.15,"Popyrin A.",TRUE,"Moutet C.",FALSE,FALSE,24
+2024-04-08,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Nagal S.","Arnaldi M.",2.75,1.44,1.99,98.01,"Arnaldi M.",FALSE,"Arnaldi M.",FALSE,FALSE,24
+2024-04-08,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Cerundolo F.","Altmaier D.",1.57,2.38,98.47,1.53,"Cerundolo F.",TRUE,"Cerundolo F.",TRUE,FALSE,24
+2024-04-08,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Dimitrov G.","Vacherot V.",1.08,8,99.78,0.22,"Dimitrov G.",TRUE,"Dimitrov G.",TRUE,FALSE,24
+2024-04-08,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Tsitsipas S.","Djere L.",1.29,3.75,98.91,1.09,"Tsitsipas S.",TRUE,"Tsitsipas S.",TRUE,FALSE,24
+2024-04-08,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Tabilo A.","O Connell C.",1.57,2.38,49.76,50.24,"O Connell C.",FALSE,"Tabilo A.",TRUE,TRUE,24
+2024-04-08,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Fils A.","Hanfmann Y.",1.4,3,81.26,18.74,"Fils A.",TRUE,"Fils A.",TRUE,FALSE,24
+2024-04-08,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Khachanov K.","Norrie C.",1.67,2.2,89.21,10.79,"Khachanov K.",TRUE,"Khachanov K.",TRUE,FALSE,24
+2024-04-08,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Safiullin R.","Munar J.",2.3,1.62,96.92,3.08,"Safiullin R.",TRUE,"Munar J.",FALSE,FALSE,24
+2024-04-08,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Humbert U.","Coria F.",1.36,3.2,99.26,0.74,"Humbert U.",TRUE,"Humbert U.",TRUE,FALSE,24
+2024-04-09,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Zhang Zh.","Giron M.",1.73,2.1,83.84,16.16,"Zhang Zh.",TRUE,"Zhang Zh.",TRUE,FALSE,24
+2024-04-09,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","De Minaur A.","Wawrinka S.",1.4,3,98.92,1.08,"De Minaur A.",TRUE,"De Minaur A.",TRUE,FALSE,24
+2024-04-09,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Bautista Agut R.","Diaz Acosta F.",1.8,2,91.93,8.07,"Bautista Agut R.",TRUE,"Bautista Agut R.",TRUE,FALSE,24
+2024-04-09,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Korda S.","Davidovich Fokina A.",2,1.8,72.97,27.03,"Korda S.",TRUE,"Davidovich Fokina A.",FALSE,FALSE,24
+2024-04-09,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Hurkacz H.","Draper J.",1.67,2.2,76.83,23.17,"Hurkacz H.",TRUE,"Hurkacz H.",TRUE,FALSE,24
+2024-04-09,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Kecmanovic M.","Berrettini M.",3,1.4,14.29,85.71,"Berrettini M.",FALSE,"Berrettini M.",FALSE,FALSE,24
+2024-04-09,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Etcheverry T.","Jarry N.",2.38,1.57,2.12,97.88,"Jarry N.",FALSE,"Jarry N.",FALSE,FALSE,24
+2024-04-09,24,"Monte Carlo Masters","1st Round","Clay","Outdoor","Monfils G.","Vukic A.",1.1,7,99.2,0.8,"Monfils G.",TRUE,"Monfils G.",TRUE,FALSE,24
+2024-04-24,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Munar J.","Borges N.",1.67,2.2,87.35,12.65,"Munar J.",TRUE,"Munar J.",TRUE,FALSE,28
+2024-04-24,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Navone M.","Popyrin A.",2.1,1.73,28.13,71.87,"Popyrin A.",FALSE,"Popyrin A.",FALSE,FALSE,28
+2024-04-24,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Daniel T.","Vukic A.",1.91,1.91,67.82,32.18,"Daniel T.",TRUE,NA,FALSE,FALSE,28
+2024-04-24,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Seyboth Wild T.","Safiullin R.",1.73,2.1,19.65,80.35,"Safiullin R.",FALSE,"Seyboth Wild T.",TRUE,TRUE,28
+2024-04-24,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Altmaier D.","Landaluce M.",1.33,3.4,76.42,23.58,"Altmaier D.",TRUE,"Altmaier D.",TRUE,FALSE,28
+2024-04-24,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Shevchenko A.","Rinderknech A.",2,1.8,98.32,1.68,"Shevchenko A.",TRUE,"Rinderknech A.",FALSE,FALSE,28
+2024-04-24,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Van Assche L.","Bergs Z.",1.67,2.2,65.53,34.47,"Van Assche L.",TRUE,"Van Assche L.",TRUE,FALSE,28
+2024-04-24,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Darderi L.","Monfils G.",2.3,1.62,3.39,96.61,"Monfils G.",FALSE,"Monfils G.",FALSE,FALSE,28
+2024-04-24,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Marozsan F.","Karatsev A.",1.14,5.5,75.28,24.72,"Marozsan F.",TRUE,"Marozsan F.",TRUE,FALSE,28
+2024-04-24,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Coric B.","Hassan B.",1.3,3.5,95.21,4.79,"Coric B.",TRUE,"Coric B.",TRUE,FALSE,28
+2024-04-24,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Draper J.","Kokkinakis T.",1.53,2.5,76.14,23.86,"Draper J.",TRUE,"Draper J.",TRUE,FALSE,28
+2024-04-24,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Bagnis F.","Nakashima B.",3,1.4,1.81,98.19,"Nakashima B.",FALSE,"Nakashima B.",FALSE,FALSE,28
+2024-04-24,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Van De Zandschulp B.","Eubanks C.",1.33,3.4,48.95,51.05,"Eubanks C.",FALSE,"Van De Zandschulp B.",TRUE,TRUE,28
+2024-04-24,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Klein L.","Llamas Ruiz P.",1.91,1.91,11.31,88.69,"Llamas Ruiz P.",FALSE,NA,FALSE,FALSE,28
+2024-04-24,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Shang J.","Moutet C.",2.38,1.57,94.15,5.85,"Shang J.",TRUE,"Moutet C.",FALSE,FALSE,28
+2024-04-24,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Shapovalov D.","Diaz Acosta F.",2.38,1.57,97.65,2.35,"Shapovalov D.",TRUE,"Diaz Acosta F.",FALSE,FALSE,28
+2024-04-25,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Cachin P.","Ofner S.",2.75,1.44,7.29,92.71,"Ofner S.",FALSE,"Ofner S.",FALSE,FALSE,28
+2024-04-25,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Cobolli F.","Tabilo A.",2.38,1.57,22.36,77.64,"Tabilo A.",FALSE,"Tabilo A.",FALSE,FALSE,28
+2024-04-25,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Auger-Aliassime F.","Nishioka Y.",1.22,4.33,75.18,24.82,"Auger-Aliassime F.",TRUE,"Auger-Aliassime F.",TRUE,FALSE,28
+2024-04-25,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Machac T.","Ruusuvuori E.",1.5,2.63,40.32,59.68,"Ruusuvuori E.",FALSE,"Machac T.",TRUE,TRUE,28
+2024-04-25,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Purcell M.","Giron M.",3.75,1.29,19.65,80.35,"Giron M.",FALSE,"Giron M.",FALSE,FALSE,28
+2024-04-25,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Sonego L.","Gasquet R.",1.44,2.75,97.69,2.31,"Sonego L.",TRUE,"Sonego L.",TRUE,FALSE,28
+2024-04-25,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Monteiro T.","Lajovic D.",2.5,1.53,0.98,99.02,"Lajovic D.",FALSE,"Lajovic D.",FALSE,FALSE,28
+2024-04-25,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Arnaldi M.","O Connell C.",1.33,3.4,83.07,16.93,"Arnaldi M.",TRUE,"Arnaldi M.",TRUE,FALSE,28
+2024-04-25,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Bautista Agut R.","Galan D.E.",1.4,3,99.82,0.18,"Bautista Agut R.",TRUE,"Bautista Agut R.",TRUE,FALSE,28
+2024-04-25,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Mensik J.","Hanfmann Y.",1.73,2.1,77.49,22.51,"Mensik J.",TRUE,"Mensik J.",TRUE,FALSE,28
+2024-04-25,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Kecmanovic M.","Zhang Zh.",1.67,2.2,7.44,92.56,"Zhang Zh.",FALSE,"Kecmanovic M.",TRUE,TRUE,28
+2024-04-25,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Kotov P.","Ramos-Vinolas A.",1.62,2.3,95.88,4.12,"Kotov P.",TRUE,"Kotov P.",TRUE,FALSE,28
+2024-04-25,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Medjedovic H.","Kovacevic A.",1.44,2.75,93.31,6.69,"Medjedovic H.",TRUE,"Medjedovic H.",TRUE,FALSE,28
+2024-04-25,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Nadal R.","Blanch D.",1.04,13,91,9,"Nadal R.",TRUE,"Nadal R.",TRUE,FALSE,28
+2024-04-25,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Fonseca J.","Michelsen A.",1.57,2.38,7.77,92.23,"Michelsen A.",FALSE,"Fonseca J.",TRUE,TRUE,28
+2024-04-25,28,"Mutua Madrid Open","1st Round","Clay","Outdoor","Carballes Baena R.","Koepfer D.",1.53,2.5,53.06,46.94,"Carballes Baena R.",TRUE,"Carballes Baena R.",TRUE,FALSE,28
+2024-05-08,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Zhang Zh.","Galan D.E.",1.91,1.91,99.92,0.08,"Zhang Zh.",TRUE,NA,FALSE,FALSE,29
+2024-05-08,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Hanfmann Y.","Mensik J.",2.3,1.62,11.64,88.36,"Mensik J.",FALSE,"Mensik J.",FALSE,FALSE,29
+2024-05-08,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Nishioka Y.","Ofner S.",2.1,1.73,44.6,55.4,"Ofner S.",FALSE,"Ofner S.",FALSE,FALSE,29
+2024-05-08,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Borges N.","Martinez P.",1.91,1.91,48.12,51.88,"Martinez P.",FALSE,NA,FALSE,FALSE,29
+2024-05-08,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Darderi L.","Shapovalov D.",1.67,2.2,19.51,80.49,"Shapovalov D.",FALSE,"Darderi L.",TRUE,TRUE,29
+2024-05-08,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Kotov P.","Michelsen A.",1.44,2.75,45.61,54.39,"Michelsen A.",FALSE,"Kotov P.",TRUE,TRUE,29
+2024-05-08,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Cobolli F.","Marterer M.",1.4,3,30.43,69.57,"Marterer M.",FALSE,"Cobolli F.",TRUE,TRUE,29
+2024-05-08,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Monteiro T.","Monfils G.",1.67,2.2,0.71,99.29,"Monfils G.",FALSE,"Monteiro T.",TRUE,TRUE,29
+2024-05-08,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Shevchenko A.","Marozsan F.",2.75,1.44,15.68,84.32,"Marozsan F.",FALSE,"Marozsan F.",FALSE,FALSE,29
+2024-05-08,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Atmane T.","Eubanks C.",1.5,2.63,19.58,80.42,"Eubanks C.",FALSE,"Atmane T.",TRUE,TRUE,29
+2024-05-08,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Vukic A.","Schwartzman D.",2.38,1.57,43.18,56.82,"Schwartzman D.",FALSE,"Schwartzman D.",FALSE,FALSE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Koepfer D.","Vavassori A.",1.67,2.2,17.81,82.19,"Vavassori A.",FALSE,"Koepfer D.",TRUE,TRUE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Munar J.","Hijikata R.",1.08,8,25.62,74.38,"Hijikata R.",FALSE,"Munar J.",TRUE,TRUE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Seyboth Wild T.","Barrere G.",1.4,3,63.7,36.3,"Seyboth Wild T.",TRUE,"Seyboth Wild T.",TRUE,FALSE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Medjedovic H.","Popyrin A.",1.8,2,26.92,73.08,"Popyrin A.",FALSE,"Medjedovic H.",TRUE,TRUE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Passaro F.","Rinderknech A.",2.2,1.67,28.72,71.28,"Rinderknech A.",FALSE,"Rinderknech A.",FALSE,FALSE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Nadal R.","Bergs Z.",1.14,5.5,88.76,11.24,"Nadal R.",TRUE,"Nadal R.",TRUE,FALSE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Napolitano S.","Wolf J.J.",1.44,2.75,1.37,98.63,"Wolf J.J.",FALSE,"Napolitano S.",TRUE,TRUE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Gigante M.","Zeppieri G.",2.38,1.57,43.42,56.58,"Zeppieri G.",FALSE,"Zeppieri G.",FALSE,FALSE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Moutet C.","Safiullin R.",1.73,2.1,0.07,99.93,"Safiullin R.",FALSE,"Moutet C.",TRUE,TRUE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Kecmanovic M.","Nakashima B.",1.73,2.1,65.26,34.74,"Kecmanovic M.",TRUE,"Kecmanovic M.",TRUE,FALSE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Arnaldi M.","Mayot H.",1.17,5,76.08,23.92,"Arnaldi M.",TRUE,"Arnaldi M.",TRUE,FALSE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Draper J.","Coric B.",1.67,2.2,89.93,10.07,"Draper J.",TRUE,"Draper J.",TRUE,FALSE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Carballes Baena R.","O Connell C.",1.44,2.75,35.88,64.12,"O Connell C.",FALSE,"Carballes Baena R.",TRUE,TRUE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Giron M.","Ruusuvuori E.",2.1,1.73,17.32,82.68,"Ruusuvuori E.",FALSE,"Ruusuvuori E.",FALSE,FALSE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Struff J.L.","Cachin P.",1.22,4.33,98.35,1.65,"Struff J.L.",TRUE,"Struff J.L.",TRUE,FALSE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Van De Zandschulp B.","Moreno De Alboran N.",1.44,2.75,98.55,1.45,"Van De Zandschulp B.",TRUE,"Van De Zandschulp B.",TRUE,FALSE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Fognini F.","Evans D.",1.53,2.5,54.14,45.86,"Fognini F.",TRUE,"Fognini F.",TRUE,FALSE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Muller A.","Fucsovics M.",2.5,1.53,4.78,95.22,"Fucsovics M.",FALSE,"Fucsovics M.",FALSE,FALSE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Karatsev A.","Mcdonald M.",1.25,4,51.62,48.38,"Karatsev A.",TRUE,"Karatsev A.",TRUE,FALSE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Lajovic D.","Sonego L.",2,1.8,48.92,51.08,"Sonego L.",FALSE,"Sonego L.",FALSE,FALSE,29
+2024-05-09,29,"Internazionali BNL d'Italia","1st Round","Clay","Outdoor","Nardi L.","Altmaier D.",2.2,1.67,1.71,98.29,"Altmaier D.",FALSE,"Altmaier D.",FALSE,FALSE,29
+2024-08-06,48,"Canadian Open","1st Round","Hard","Outdoor","Sonego L.","Griekspoor T.",2.3,1.62,7.98,92.02,"Griekspoor T.",FALSE,"Griekspoor T.",FALSE,FALSE,48
+2024-08-06,48,"Canadian Open","1st Round","Hard","Outdoor","Nishikori K.","Michelsen A.",3.5,1.3,56.31,43.69,"Nishikori K.",TRUE,"Michelsen A.",FALSE,FALSE,48
+2024-08-06,48,"Canadian Open","1st Round","Hard","Outdoor","Etcheverry T.","Jarry N.",1.73,2.1,5.14,94.86,"Jarry N.",FALSE,"Etcheverry T.",TRUE,TRUE,48
+2024-08-06,48,"Canadian Open","1st Round","Hard","Outdoor","Borges N.","Kecmanovic M.",2.38,1.57,4.05,95.95,"Kecmanovic M.",FALSE,"Kecmanovic M.",FALSE,FALSE,48
+2024-08-06,48,"Canadian Open","1st Round","Hard","Outdoor","Khachanov K.","Diallo G.",1.4,3,99.52,0.48,"Khachanov K.",TRUE,"Khachanov K.",TRUE,FALSE,48
+2024-08-07,48,"Canadian Open","1st Round","Hard","Outdoor","Carreno Busta P.","Marozsan F.",3.5,1.3,3.4,96.6,"Marozsan F.",FALSE,"Marozsan F.",FALSE,FALSE,48
+2024-08-07,48,"Canadian Open","1st Round","Hard","Outdoor","Rune H.","Bautista Agut R.",NA,NA,98.67,1.33,"Rune H.",TRUE,NA,FALSE,FALSE,48
+2024-08-07,48,"Canadian Open","1st Round","Hard","Outdoor","Tabilo A.","Tiafoe F.",2.3,1.62,8.78,91.22,"Tiafoe F.",FALSE,"Tiafoe F.",FALSE,FALSE,48
+2024-08-07,48,"Canadian Open","1st Round","Hard","Outdoor","Thompson J.","Draper J.",3.2,1.36,1.9,98.1,"Draper J.",FALSE,"Draper J.",FALSE,FALSE,48
+2024-08-07,48,"Canadian Open","1st Round","Hard","Outdoor","Paul T.","Darderi L.",1.13,6,80.37,19.63,"Paul T.",TRUE,"Paul T.",TRUE,FALSE,48
+2024-08-07,48,"Canadian Open","1st Round","Hard","Outdoor","Hijikata R.","Daniel T.",2.3,1.62,50.47,49.53,"Hijikata R.",TRUE,"Daniel T.",FALSE,FALSE,48
+2024-08-07,48,"Canadian Open","1st Round","Hard","Outdoor","Arnaldi M.","Mcdonald M.",1.8,2,68.2,31.8,"Arnaldi M.",TRUE,"Arnaldi M.",TRUE,FALSE,48
+2024-08-07,48,"Canadian Open","1st Round","Hard","Outdoor","Shelton B.","Bublik A.",1.5,2.63,73.09,26.91,"Shelton B.",TRUE,"Shelton B.",TRUE,FALSE,48
+2024-08-07,48,"Canadian Open","1st Round","Hard","Outdoor","Davidovich Fokina A.","Safiullin R.",1.91,1.91,76.41,23.59,"Davidovich Fokina A.",TRUE,NA,FALSE,FALSE,48
+2024-08-07,48,"Canadian Open","1st Round","Hard","Outdoor","Humbert U.","Fils A.",1.62,2.3,34.55,65.45,"Fils A.",FALSE,"Humbert U.",TRUE,TRUE,48
+2024-08-07,48,"Canadian Open","1st Round","Hard","Outdoor","Coric B.","Martinez P.",1.33,3.4,99.2,0.8,"Coric B.",TRUE,"Coric B.",TRUE,FALSE,48
+2024-08-07,48,"Canadian Open","1st Round","Hard","Outdoor","Nakashima B.","Shapovalov D.",2.1,1.73,3.68,96.32,"Shapovalov D.",FALSE,"Shapovalov D.",FALSE,FALSE,48
+2024-08-07,48,"Canadian Open","1st Round","Hard","Outdoor","Duckworth J.","Giron M.",2.63,1.5,2.48,97.52,"Giron M.",FALSE,"Giron M.",FALSE,FALSE,48
+2024-08-07,48,"Canadian Open","1st Round","Hard","Outdoor","Popyrin A.","Machac T.",2.3,1.62,55.96,44.04,"Popyrin A.",TRUE,"Machac T.",FALSE,FALSE,48
+2024-08-07,48,"Canadian Open","1st Round","Hard","Outdoor","Fritz T.","Navone M.",1.06,10,25.96,74.04,"Navone M.",FALSE,"Fritz T.",TRUE,TRUE,48
+2024-08-07,48,"Canadian Open","1st Round","Hard","Outdoor","Rinderknech A.","Mannarino A.",1.5,2.63,0.01,99.99,"Mannarino A.",FALSE,"Rinderknech A.",TRUE,TRUE,48
+2024-08-08,48,"Canadian Open","1st Round","Hard","Outdoor","Korda S.","Pospisil V.",1.07,9,97,3,"Korda S.",TRUE,"Korda S.",TRUE,FALSE,48
+2024-08-08,48,"Canadian Open","1st Round","Hard","Outdoor","Cobolli F.","Auger-Aliassime F.",4,1.25,22.31,77.69,"Auger-Aliassime F.",FALSE,"Auger-Aliassime F.",FALSE,FALSE,48
+2024-08-08,48,"Canadian Open","1st Round","Hard","Outdoor","Kokkinakis T.","Monfils G.",1.73,2.1,37.43,62.57,"Monfils G.",FALSE,"Kokkinakis T.",TRUE,TRUE,48
+2024-10-02,56,"Shanghai Masters","1st Round","Hard","Outdoor","Muller A.","Nardi L.",1.53,2.5,94.62,5.38,"Muller A.",TRUE,"Muller A.",TRUE,FALSE,56
+2024-10-02,56,"Shanghai Masters","1st Round","Hard","Outdoor","Rinderknech A.","Opelka R.",1.91,1.91,61.29,38.71,"Rinderknech A.",TRUE,NA,FALSE,FALSE,56
+2024-10-02,56,"Shanghai Masters","1st Round","Hard","Outdoor","Wu Y.","Nagal S.",1.57,2.38,70.55,29.45,"Wu Y.",TRUE,"Wu Y.",TRUE,FALSE,56
+2024-10-02,56,"Shanghai Masters","1st Round","Hard","Outdoor","Van De Zandschulp B.","Carreno Busta P.",2.38,1.57,75.07,24.93,"Van De Zandschulp B.",TRUE,"Carreno Busta P.",FALSE,FALSE,56
+2024-10-02,56,"Shanghai Masters","1st Round","Hard","Outdoor","Monfils G.","Dzumhur D.",1.25,4,63.13,36.87,"Monfils G.",TRUE,"Monfils G.",TRUE,FALSE,56
+2024-10-02,56,"Shanghai Masters","1st Round","Hard","Outdoor","Carballes Baena R.","Bautista Agut R.",2.75,1.44,22.91,77.09,"Bautista Agut R.",FALSE,"Bautista Agut R.",FALSE,FALSE,56
+2024-10-02,56,"Shanghai Masters","1st Round","Hard","Outdoor","Cazaux A.","Cilic M.",2.5,1.53,6.5,93.5,"Cilic M.",FALSE,"Cilic M.",FALSE,FALSE,56
+2024-10-02,56,"Shanghai Masters","1st Round","Hard","Outdoor","Fognini F.","Darderi L.",2.1,1.73,54.75,45.25,"Fognini F.",TRUE,"Darderi L.",FALSE,FALSE,56
+2024-10-02,56,"Shanghai Masters","1st Round","Hard","Outdoor","Shapovalov D.","Sonego L.",1.5,2.63,48.68,51.32,"Sonego L.",FALSE,"Shapovalov D.",TRUE,TRUE,56
+2024-10-02,56,"Shanghai Masters","1st Round","Hard","Outdoor","Vukic A.","Moutet C.",NA,NA,87.31,12.69,"Vukic A.",TRUE,NA,FALSE,FALSE,56
+2024-10-02,56,"Shanghai Masters","1st Round","Hard","Outdoor","Svajda Z.","Mannarino A.",2.1,1.73,4.99,95.01,"Mannarino A.",FALSE,"Mannarino A.",FALSE,FALSE,56
+2024-10-02,56,"Shanghai Masters","1st Round","Hard","Outdoor","Shang J.","Wong C.",1.22,4.33,88.9,11.1,"Shang J.",TRUE,"Shang J.",TRUE,FALSE,56
+2024-10-02,56,"Shanghai Masters","1st Round","Hard","Outdoor","Davidovich Fokina A.","Diallo G.",1.73,2.1,98.74,1.26,"Davidovich Fokina A.",TRUE,"Davidovich Fokina A.",TRUE,FALSE,56
+2024-10-02,56,"Shanghai Masters","1st Round","Hard","Outdoor","Daniel T.","Gerasimov E.",1.29,3.75,46.07,53.93,"Gerasimov E.",FALSE,"Daniel T.",TRUE,TRUE,56
+2024-10-02,56,"Shanghai Masters","1st Round","Hard","Outdoor","Seyboth Wild T.","Evans D.",2.5,1.53,76.86,23.14,"Seyboth Wild T.",TRUE,"Evans D.",FALSE,FALSE,56
+2024-10-02,56,"Shanghai Masters","1st Round","Hard","Outdoor","Nishikori K.","Navone M.",1.29,3.75,52.61,47.39,"Nishikori K.",TRUE,"Nishikori K.",TRUE,FALSE,56
+2024-10-03,56,"Shanghai Masters","1st Round","Hard","Outdoor","Kecmanovic M.","Hijikata R.",1.53,2.5,39.77,60.23,"Hijikata R.",FALSE,"Kecmanovic M.",TRUE,TRUE,56
+2024-10-03,56,"Shanghai Masters","1st Round","Hard","Outdoor","Munar J.","Gaston H.",1.44,2.75,73.01,26.99,"Munar J.",TRUE,"Munar J.",TRUE,FALSE,56
+2024-10-03,56,"Shanghai Masters","1st Round","Hard","Outdoor","Goffin D.","Duckworth J.",1.44,2.75,81.99,18.01,"Goffin D.",TRUE,"Goffin D.",TRUE,FALSE,56
+2024-10-03,56,"Shanghai Masters","1st Round","Hard","Outdoor","Zhou Y.","Nishioka Y.",5.5,1.14,5.06,94.94,"Nishioka Y.",FALSE,"Nishioka Y.",FALSE,FALSE,56
+2024-10-03,56,"Shanghai Masters","1st Round","Hard","Outdoor","Berrettini M.","O Connell C.",1.36,3.2,68.53,31.47,"Berrettini M.",TRUE,"Berrettini M.",TRUE,FALSE,56
+2024-10-03,56,"Shanghai Masters","1st Round","Hard","Outdoor","Mensik J.","Martinez P.",1.4,3,98.16,1.84,"Mensik J.",TRUE,"Mensik J.",TRUE,FALSE,56
+2024-10-03,56,"Shanghai Masters","1st Round","Hard","Outdoor","Griekspoor T.","Diaz Acosta F.",1.2,4.5,99.61,0.39,"Griekspoor T.",TRUE,"Griekspoor T.",TRUE,FALSE,56
+2024-10-03,56,"Shanghai Masters","1st Round","Hard","Outdoor","Giron M.","Tu L.",1.53,2.5,86.75,13.25,"Giron M.",TRUE,"Giron M.",TRUE,FALSE,56
+2024-10-03,56,"Shanghai Masters","1st Round","Hard","Outdoor","Watanuki Y.","Kotov P.",2,1.8,28.65,71.35,"Kotov P.",FALSE,"Kotov P.",FALSE,FALSE,56
+2024-10-03,56,"Shanghai Masters","1st Round","Hard","Outdoor","Shevchenko A.","Ramanathan R.",1.22,4.33,96.33,3.67,"Shevchenko A.",TRUE,"Shevchenko A.",TRUE,FALSE,56
+2024-10-03,56,"Shanghai Masters","1st Round","Hard","Outdoor","Safiullin R.","Zhukayev B.",1.2,4.5,86.47,13.53,"Safiullin R.",TRUE,"Safiullin R.",TRUE,FALSE,56
+2024-10-03,56,"Shanghai Masters","1st Round","Hard","Outdoor","Bergs Z.","Zhang Zh.",2.1,1.73,1.99,98.01,"Zhang Zh.",FALSE,"Zhang Zh.",FALSE,FALSE,56
+2024-10-03,56,"Shanghai Masters","1st Round","Hard","Outdoor","Bellucci M.","Harris B.",1.4,3,16.02,83.98,"Harris B.",FALSE,"Bellucci M.",TRUE,TRUE,56
+2024-10-03,56,"Shanghai Masters","1st Round","Hard","Outdoor","Atmane T.","Kovacevic A.",1.73,2.1,85.67,14.33,"Atmane T.",TRUE,"Atmane T.",TRUE,FALSE,56
+2024-10-03,56,"Shanghai Masters","1st Round","Hard","Outdoor","Wawrinka S.","Mpetshi G.",2.1,1.73,77.07,22.93,"Wawrinka S.",TRUE,"Mpetshi G.",FALSE,FALSE,56
+2024-10-04,56,"Shanghai Masters","1st Round","Hard","Outdoor","Michelsen A.","Bu Y.",1.57,2.38,93.6,6.4,"Michelsen A.",TRUE,"Michelsen A.",TRUE,FALSE,56
+2024-10-28,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Rinderknech A.","Machac T.",3.75,1.29,9.78,90.22,"Machac T.",FALSE,"Machac T.",FALSE,FALSE,62
+2024-10-28,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Griekspoor T.","Darderi L.",1.2,4.5,92.81,7.19,"Griekspoor T.",TRUE,"Griekspoor T.",TRUE,FALSE,62
+2024-10-28,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Thompson J.","Martinez P.",1.33,3.4,99.14,0.86,"Thompson J.",TRUE,"Thompson J.",TRUE,FALSE,62
+2024-10-28,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Cerundolo F.","Halys Q.",2,1.8,87.82,12.18,"Cerundolo F.",TRUE,"Halys Q.",FALSE,FALSE,62
+2024-10-28,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Etcheverry T.","Zhang Zh.",1.67,2.2,67.95,32.05,"Etcheverry T.",TRUE,"Etcheverry T.",TRUE,FALSE,62
+2024-10-28,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Giron M.","Shang J.",1.62,2.3,37.9,62.1,"Shang J.",FALSE,"Giron M.",TRUE,TRUE,62
+2024-10-28,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Humbert U.","Nakashima B.",1.53,2.5,98.8,1.2,"Humbert U.",TRUE,"Humbert U.",TRUE,FALSE,62
+2024-10-28,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Kecmanovic M.","Baez S.",1.4,3,21.91,78.09,"Baez S.",FALSE,"Kecmanovic M.",TRUE,TRUE,62
+2024-10-28,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Bublik A.","Fognini F.",1.67,2.2,56.58,43.42,"Bublik A.",TRUE,"Bublik A.",TRUE,FALSE,62
+2024-10-28,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Tsitsipas S.","Carballes Baena R.",1.17,5,99.97,0.03,"Tsitsipas S.",TRUE,"Tsitsipas S.",TRUE,FALSE,62
+2024-10-28,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Jarry N.","Sonego L.",2.38,1.57,94.45,5.55,"Jarry N.",TRUE,"Sonego L.",FALSE,FALSE,62
+2024-10-28,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Tabilo A.","Borges N.",1.57,2.38,95.16,4.84,"Tabilo A.",TRUE,"Tabilo A.",TRUE,FALSE,62
+2024-10-28,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Mannarino A.","Paul T.",6,1.13,24.61,75.39,"Paul T.",FALSE,"Paul T.",FALSE,FALSE,62
+2024-10-29,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Struff J.L.","Musetti L.",2.63,1.5,45.69,54.31,"Musetti L.",FALSE,"Musetti L.",FALSE,FALSE,62
+2024-10-29,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Michelsen A.","Hurkacz H.",2.2,1.67,0.74,99.26,"Hurkacz H.",FALSE,"Hurkacz H.",FALSE,FALSE,62
+2024-10-29,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Fils A.","Cilic M.",1.25,4,97.45,2.55,"Fils A.",TRUE,"Fils A.",TRUE,FALSE,62
+2024-10-29,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Popyrin A.","Berrettini M.",2.5,1.53,60.5,39.5,"Popyrin A.",TRUE,"Berrettini M.",FALSE,FALSE,62
+2024-10-29,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Mpetshi G.","Tiafoe F.",2.2,1.67,5.01,94.99,"Tiafoe F.",FALSE,"Tiafoe F.",FALSE,FALSE,62
+2024-10-29,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Khachanov K.","O Connell C.",1.29,3.75,99.89,0.11,"Khachanov K.",TRUE,"Khachanov K.",TRUE,FALSE,62
+2024-10-29,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Rune H.","Arnaldi M.",1.25,3.75,91.41,8.59,"Rune H.",TRUE,"Rune H.",TRUE,FALSE,62
+2024-10-29,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Bergs Z.","Gasquet R.",1.41,2.75,38.74,61.26,"Gasquet R.",FALSE,"Bergs Z.",TRUE,TRUE,62
+2024-10-29,62,"BNP Paribas Masters","1st Round","Hard","Indoor","De Minaur A.","Navone M.",1.08,8,88.15,11.85,"De Minaur A.",TRUE,"De Minaur A.",TRUE,FALSE,62
+2024-10-29,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Shelton B.","Moutet C.",1.29,3.75,99.93,0.07,"Shelton B.",TRUE,"Shelton B.",TRUE,FALSE,62
+2024-10-29,62,"BNP Paribas Masters","1st Round","Hard","Indoor","Draper J.","Lehecka J.",1.5,2.63,76.55,23.45,"Draper J.",TRUE,"Draper J.",TRUE,FALSE,62

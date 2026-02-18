@@ -1,0 +1,2 @@
+tournament_set,n_matches,theta_global,fat_delta,fat_window,acc_ttt,acc_fat,acc_book,brier_ttt,brier_fat,brier_book,logloss_ttt,logloss_fat,logloss_book,calratio_ttt,calratio_fat,calratio_book,delta_acc_fat_vs_ttt,delta_brier_fat_vs_ttt,delta_ll_fat_vs_ttt
+All_2024_R1,2609,-0.040598967519957535,0.7,5,64.85,64.58,69.11,0.225,0.225,0.199,0.6529,0.653,0.581,0.5805,0.58,0.5957,-27,1e-4,1e-4

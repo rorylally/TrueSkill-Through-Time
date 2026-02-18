@@ -1,0 +1,2 @@
+tournament_set,n_matches,theta_global,fat_delta,fat_window,acc_ttt,acc_fat,acc_book,brier_ttt,brier_fat,brier_book,logloss_ttt,logloss_fat,logloss_book,calratio_ttt,calratio_fat,calratio_book,delta_acc_fat_vs_ttt,delta_brier_fat_vs_ttt,delta_ll_fat_vs_ttt
+Grandslams,500,-0.040598967519957535,0.7,5,72.8,72.4,78.4,0.1894,0.1896,0.1539,0.5722,0.573,0.4731,0.6349,0.6347,0.6719,-40,1e-4,9e-4

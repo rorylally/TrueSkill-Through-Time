@@ -1,0 +1,2 @@
+tournament_set,n_matches,theta_global,fat_delta,fat_window,acc_ttt,acc_fat,acc_book,brier_ttt,brier_fat,brier_book,logloss_ttt,logloss_fat,logloss_book,calratio_ttt,calratio_fat,calratio_book,delta_acc_fat_vs_ttt,delta_brier_fat_vs_ttt,delta_ll_fat_vs_ttt
+Masters1000,622,-0.040598967519957535,0.7,5,65.59,65.27,67.85,0.2215,0.2215,0.2056,0.6471,0.647,0.5967,0.5857,0.5848,0.5898,-32,1e-4,-0

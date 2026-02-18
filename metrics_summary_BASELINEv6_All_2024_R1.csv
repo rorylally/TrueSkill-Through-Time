@@ -1,0 +1,2 @@
+tournament_set,elo_scale,n_tournaments_used,n_matches,acc_ttt,acc_book,acc_elo,brier_ttt,brier_book,brier_elo,logloss_ttt,logloss_book,logloss_elo
+All_2024_R1,400,64,1132,62.46,68.37,62.46,0.2788,0.2005,0.2494,0.9554,0.5827,0.692

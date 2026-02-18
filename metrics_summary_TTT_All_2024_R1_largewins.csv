@@ -1,0 +1,2 @@
+tournament_set,n_tournaments_used,n_matches,acc_ttt,acc_book,brier_ttt,brier_book,logloss_ttt,logloss_book,calratio_ttt,calratio_book,mov_pred_scale,mov_pred_cap,preds_file
+All_2024_R1,65,2609,64.39,69.11,0.3006,0.199,2.0402,0.581,0.6378,0.5957,0,4,TTT_predictions_All_2024_R1_largewins.csv

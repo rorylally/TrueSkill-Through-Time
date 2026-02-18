@@ -1,0 +1,6 @@
+tournament_set,n_tournaments_used,n_matches,ttt_accuracy,bookmaker_accuracy
+Grandslams,4,132,75,76.52
+ATP500,12,122,63.11,62.3
+All_2024_R1,64,593,62.73,65.6
+Masters1000,8,140,59.29,64.29
+ATP250,39,179,56.42,62.01

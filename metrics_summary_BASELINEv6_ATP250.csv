@@ -1,0 +1,2 @@
+tournament_set,elo_scale,n_tournaments_used,n_matches,acc_ttt,acc_book,acc_elo,brier_ttt,brier_book,brier_elo,logloss_ttt,logloss_book,logloss_elo
+ATP250,400,39,453,58.72,66.23,58.72,0.3034,0.214,0.2496,0.9462,0.6152,0.6923

@@ -1,0 +1,2 @@
+tournament_set,n_tournaments_used,n_matches,acc_ttt,acc_book,brier_ttt,brier_book,logloss_ttt,logloss_book,calratio_ttt,calratio_book,mov_pred_scale,mov_pred_cap,preds_file
+Grandslams,4,500,72.2,78.4,0.2377,0.1539,1.6444,0.4731,0.7157,0.6719,0,4,TTT_predictions_Grandslams_largewins.csv

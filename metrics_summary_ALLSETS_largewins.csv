@@ -1,0 +1,6 @@
+tournament_set,n_tournaments_used,n_matches,acc_ttt,acc_book,brier_ttt,brier_book,logloss_ttt,logloss_book,calratio_ttt,calratio_book,preds_file,summary_file
+Grandslams,4,500,72.2,78.4,0.2377,0.1539,1.6444,0.4731,0.7157,0.6719,TTT_predictions_Grandslams_largewins.csv,metrics_summary_TTT_Grandslams_largewins.csv
+Masters1000,8,622,64.63,67.85,0.3047,0.2056,2.5249,0.5967,0.6429,0.5898,TTT_predictions_Masters1000_largewins.csv,metrics_summary_TTT_Masters1000_largewins.csv
+All_2024_R1,65,2609,64.39,69.11,0.3006,0.199,2.0402,0.581,0.6378,0.5957,TTT_predictions_All_2024_R1_largewins.csv,metrics_summary_TTT_All_2024_R1_largewins.csv
+ATP500,12,388,63.14,67.53,0.305,0.2018,2.1691,0.5875,0.6343,0.5902,TTT_predictions_ATP500_largewins.csv,metrics_summary_TTT_ATP500_largewins.csv
+ATP250,39,1033,61.76,66.12,0.3213,0.2141,1.7985,0.6166,0.6035,0.5662,TTT_predictions_ATP250_largewins.csv,metrics_summary_TTT_ATP250_largewins.csv

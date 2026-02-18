@@ -1,0 +1,2 @@
+tournament_set,n_tournaments_used,n_matches,acc_ttt,acc_book,brier_ttt,brier_book,logloss_ttt,logloss_book,calratio_ttt,calratio_book,preds_file
+Masters1000,8,622,65.59,67.85,0.2215,0.2056,0.6471,0.5967,0.5857,0.5898,TTT_predictions_Masters1000.csv

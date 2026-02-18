@@ -1,0 +1,2 @@
+tournament_set,K,init_elo,elo_scale,n_tournaments_used,n_matches,acc_elo,acc_book,brier_elo,brier_book,logloss_elo,logloss_book,calratio_elo,calratio_book
+Masters1000,32,1500,400,8,216,58.8,65.74,0.2387,0.2137,0.6693,0.6143,0.5289,0.5655

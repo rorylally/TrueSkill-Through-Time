@@ -1,0 +1,2 @@
+tournament_set,K,init_elo,elo_scale,n_tournaments_used,n_matches,acc_elo,acc_book,brier_elo,brier_book,logloss_elo,logloss_book,calratio_elo,calratio_book
+Grandslams,32,1500,400,4,246,68.29,76.02,0.1935,0.1585,0.564,0.4785,0.5983,0.6651

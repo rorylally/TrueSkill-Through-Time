@@ -1,0 +1,2 @@
+tournament_set,n_tournaments_used,n_matches,acc_ttt,acc_book,brier_ttt,brier_book,logloss_ttt,logloss_book,calratio_ttt,calratio_book,preds_file
+ATP500,12,388,64.18,67.53,0.2204,0.2018,0.6409,0.5875,0.5789,0.5902,TTT_predictions_ATP500.csv

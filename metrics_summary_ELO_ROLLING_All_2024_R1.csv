@@ -1,0 +1,2 @@
+tournament_set,K,init_elo,elo_scale,n_tournaments_used,n_matches,acc_elo,acc_book,brier_elo,brier_book,logloss_elo,logloss_book,calratio_elo,calratio_book
+All_2024_R1,32,1500,400,64,1104,61.41,68.75,0.2268,0.1989,0.642,0.5788,0.5469,0.5913

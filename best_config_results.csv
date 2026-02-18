@@ -1,0 +1,6 @@
+tournament_set,n_tournaments_used,n_matches,acc_ttt,acc_ttt_fat,acc_book,brier_ttt,brier_ttt_fat,brier_book,logloss_ttt,logloss_ttt_fat,logloss_book,calratio_ttt,calratio_ttt_fat,calratio_book,cfg_window,cfg_delta,cfg_transform,cfg_fat_mode,cfg_alpha_sigma
+Grandslams,4,327,74.01,74.01,79.2,0.2067,0.1939,0.1523,0.8829,0.5745,0.4707,1.1987,0.8813,0.931,10,0.95,linear,sigma_inflate,0.12
+All_2024_R1,65,1680,65.18,65.18,68.15,0.2703,0.2267,0.2011,1.0911,0.6593,0.5849,1.3147,0.9906,0.997,10,0.95,linear,sigma_inflate,0.12
+ATP500,12,289,62.63,62.63,64.36,0.2847,0.2285,0.2108,1.1615,0.6703,0.6052,1.3794,1.011,1.0498,10,0.95,linear,sigma_inflate,0.12
+ATP250,39,524,59.16,59.16,63.55,0.3032,0.2475,0.2204,1.0903,0.7071,0.6308,1.3983,1.0792,1.0068,10,0.95,linear,sigma_inflate,0.12
+Masters1000,10,540,67.04,67.04,67.96,0.2692,0.2253,0.2067,1.1801,0.6584,0.5987,1.2883,0.9776,1.0077,10,0.95,linear,sigma_inflate,0.12

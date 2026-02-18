@@ -1,0 +1,125 @@
+# --- Libraries ---
+library(readxl)
+library(dplyr)
+library(purrr)
+library(TrueSkillThroughTime)
+library(tidyr)
+library(lubridate)
+library(stringr)
+library(writexl)
+library(readr)
+
+# --- Helper surface tagging ---
+surf_tag <- function(s) {
+  s <- toupper(trimws(s %||% ""))
+  if (grepl("CLAY", s))  return("CLAY")
+  if (grepl("GRASS", s)) return("GRASS")
+  "HARD"
+}
+`%||%` <- function(a,b) if (is.null(a)) b else a
+
+# --- Load & prep data  ---
+df0 <- read_excel("2023_2024_ATP_Results.xlsx") %>%
+  mutate(
+    Date    = as.Date(Date),
+    Winner  = trimws(Winner),
+    Loser   = trimws(Loser),
+    Surface = trimws(Surface),
+    SurfTag = vapply(Surface, surf_tag, character(1))
+  ) 
+
+# ---- Seed training with 2023 only ----
+train_pool <- df0 %>% filter(year(Date) == 2023)
+
+# ---- All 2024 ATP codes available ----
+ks <- df0 %>%
+  filter(year(Date) == 2024) %>% 
+  filter(Round == "1st Round") %>%
+  distinct(ATP) %>%
+  arrange(ATP) %>%
+  pull(ATP)
+
+all_preds <- list()
+
+# ==== Rolling evaluation ====
+for (k in ks) {
+  
+  test_df <- df0 %>%
+    filter(year(Date) == 2024, ATP == k, Round == "1st Round")
+  
+  # --- Build TTT training comps but using (player_surface) node id ---
+  comp <- purrr::map(seq_len(nrow(train_pool)), function(i) {
+    w <- paste0(train_pool$Winner[i], "_", train_pool$SurfTag[i])
+    l <- paste0(train_pool$Loser[i],  "_", train_pool$SurfTag[i])
+    list(c(w), c(l))
+  })
+  times_tr <- as.numeric(train_pool$Date)
+  
+  m <- History(
+    composition = comp,
+    times       = times_tr,
+    sigma       = 8,   # was 8.0
+    gamma       = 0.006   # was 0.006
+  )
+  m$convergence(epsilon = 0.01, iterations = 6)
+  
+  # --- Extract latest posterior μ / σ per surface node ---
+  lc <- m$learning_curves()
+  stats_df <- purrr::map_dfr(names(lc), function(id) {
+    recs <- lc[[id]]
+    last <- recs[[length(recs)]][[2]]
+    tibble(id=id, mu=last@mu, sigma=last@sigma)
+  })
+  
+  # --- Ensure all nodes exist ---
+  all_ids <- unique(c(
+    paste0(train_pool$Winner,"_",train_pool$SurfTag),
+    paste0(train_pool$Loser,"_" ,train_pool$SurfTag),
+    paste0(test_df$Winner,"_"  ,test_df$SurfTag),
+    paste0(test_df$Loser,"_"   ,test_df$SurfTag)
+  ))
+  stats_wide <- tibble(id=all_ids) %>%
+    left_join(stats_df, by="id") %>%
+    replace_na(list(mu=0, sigma=10))
+  
+  # --- Predict ---
+  preds <- test_df %>%
+    mutate(
+      Winner_id = paste0(Winner,"_",SurfTag),
+      Loser_id  = paste0(Loser ,"_",SurfTag)
+    ) %>%
+    left_join(stats_wide, by=c("Winner_id"="id")) %>%
+    rename(mu_winner=mu, sigma_winner=sigma) %>%
+    left_join(stats_wide, by=c("Loser_id"="id")) %>%
+    rename(mu_loser=mu, sigma_loser=sigma) %>%
+    mutate(
+      .den_raw = sqrt(pmax(sigma_winner^2 + sigma_loser^2,0)),
+      .den     = if_else(.den_raw>0,.den_raw,1e-9),
+      TTT_Prob_W = pnorm((mu_winner-mu_loser)/.den),
+      TTT_Pct_W  = round(TTT_Prob_W*100,2),
+      pred        = if_else(mu_winner >= mu_loser, Winner, Loser),
+      ttt_correct = pred==Winner,
+      bookie_pred = case_when(
+        !is.na(B365W)&!is.na(B365L)&B365W<B365L ~ Winner,
+        !is.na(B365W)&!is.na(B365L)&B365W>B365L ~ Loser
+      ),
+      bookie_correct = !is.na(bookie_pred) & bookie_pred==Winner,
+      bet365_right_ttt_wrong = bookie_correct & !ttt_correct,
+      ATPk=k
+    )
+  
+  all_preds[[length(all_preds)+1]] <- preds
+  
+  train_pool <- bind_rows(train_pool, test_df)
+}
+
+# ---- aggregate + comparison ----
+all_df <- bind_rows(all_preds)
+comp_df <- all_df %>%
+  filter(!is.na(B365W), !is.na(B365L), B365W>0, B365L>0, B365W!=B365L)
+
+ttt_acc  <- mean(comp_df$ttt_correct)*100
+book_acc <- mean(comp_df$B365W < comp_df$B365L)*100
+n_comp <- nrow(comp_df)
+cat(sprintf("Accuracy — TTT: %.2f%% | Bet365: %.2f%% (same %d matches)\n",
+            ttt_acc, book_acc, n_comp))

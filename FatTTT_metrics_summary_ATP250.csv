@@ -1,0 +1,2 @@
+tournament_set,n_matches,theta_global,fat_delta,fat_window,acc_ttt,acc_fat,acc_book,brier_ttt,brier_fat,brier_book,logloss_ttt,logloss_fat,logloss_book,calratio_ttt,calratio_fat,calratio_book,delta_acc_fat_vs_ttt,delta_brier_fat_vs_ttt,delta_ll_fat_vs_ttt
+ATP250,1033,-0.040598967519957535,0.7,5,61.08,60.99,66.12,0.2445,0.2443,0.2141,0.6971,0.6964,0.6166,0.5536,0.5532,0.5662,-9,-1e-4,-7e-4
